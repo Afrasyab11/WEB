@@ -1,0 +1,252 @@
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\EmployeeProject.dll.config
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\EmployeeProject.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\EmployeeProject.pdb
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\csc.exe
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\csc.exe.config
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\csc.rsp
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\csi.exe
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\csi.exe.config
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\csi.rsp
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.AppContext.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Console.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\vbc.exe
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\vbc.exe.config
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\vbc.rsp
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\Antlr3.Runtime.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\EntityFramework.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\Newtonsoft.Json.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.Helpers.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.Mvc.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.Optimization.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.Razor.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\WebGrease.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\EntityFramework.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.Helpers.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.Mvc.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.Optimization.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.Razor.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\Newtonsoft.Json.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\Antlr3.Runtime.pdb
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csprojAssemblyReference.cache
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csproj.CopyComplete
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.dll
+C:\Users\Mubashir khani\Desktop\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.pdb
+C:\Project\EmployeeProject\EmployeeProject\bin\EmployeeProject.dll.config
+C:\Project\EmployeeProject\EmployeeProject\bin\EmployeeProject.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\EmployeeProject.pdb
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\csc.exe
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\csc.exe.config
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\csc.rsp
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\csi.exe
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\csi.exe.config
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\csi.rsp
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.AppContext.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Console.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.Compression.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.Pipes.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Claims.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.ValueTuple.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.XPath.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\vbc.exe
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\vbc.exe.config
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\vbc.rsp
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\VBCSCompiler.exe
+C:\Project\EmployeeProject\EmployeeProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\EmployeeProject\EmployeeProject\bin\Antlr3.Runtime.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\EntityFramework.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\EntityFramework.SqlServer.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\Newtonsoft.Json.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.Helpers.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.Mvc.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.Optimization.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.Razor.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Deployment.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Razor.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\WebGrease.dll
+C:\Project\EmployeeProject\EmployeeProject\bin\EntityFramework.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\EntityFramework.SqlServer.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.Helpers.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.Mvc.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.Optimization.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.Razor.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Deployment.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Razor.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\Newtonsoft.Json.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\Antlr3.Runtime.pdb
+C:\Project\EmployeeProject\EmployeeProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Project\EmployeeProject\EmployeeProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csprojAssemblyReference.cache
+C:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csproj.CopyComplete
+C:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.dll
+C:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.pdb
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\EmployeeProject.dll.config
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\EmployeeProject.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\EmployeeProject.pdb
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\csc.exe
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\csc.exe.config
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\csc.rsp
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\csi.exe
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\csi.exe.config
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\csi.rsp
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.AppContext.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Console.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\vbc.exe
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\vbc.exe.config
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\vbc.rsp
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\Antlr3.Runtime.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\EntityFramework.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\EntityFramework.SqlServer.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\Newtonsoft.Json.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.Helpers.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.Mvc.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.Optimization.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.Razor.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\WebGrease.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\EntityFramework.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\EntityFramework.SqlServer.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.Helpers.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.Mvc.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.Optimization.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.Razor.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\Newtonsoft.Json.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\Antlr3.Runtime.pdb
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csprojAssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csproj.CopyComplete
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.dll
+C:\Users\muham\OneDrive\Desktop\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.pdb
